@@ -1,13 +1,13 @@
-package com.practice.JAVA_1;
+package com.Test.Test;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Java1Application {
+public class TestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Java1Application.class, args);
+		SpringApplication.run(TestApplication.class, args);
 	}
 
 }
